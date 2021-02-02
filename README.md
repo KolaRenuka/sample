@@ -24,9 +24,9 @@
 # ordered list
 
 a. Good morning
-b. Good  afternoon
-c. Good  evening
+b. Good afternoon
+c. Good evening
          * Good morning
-         * Good  afternoon
-         * Good  evening
+         * Good afternoon
+         * Good evening
        
